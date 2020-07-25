@@ -1,0 +1,35 @@
+h1{
+    font-family: "Courier New";
+    color: rgb(179, 139, 243);
+    align: "center";
+}
+
+h5 {
+  color:rgb(171, 170, 226);
+  font-family:cursive;
+}
+
+p{
+  color:rgba(51, 30, 30, 0.781);
+  font-family:cursive;
+}
+
+li{
+  font-family:cursive;
+  color:rgb(51, 30, 30, 0.781)
+}
+
+marquee{
+  font-family:cursive;
+  color:rgb(171, 170, 226);
+}
+
+
+h4{
+  color:rgb(51, 30, 30, 0.781);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+  color: rgb(162, 129, 194);
+}
